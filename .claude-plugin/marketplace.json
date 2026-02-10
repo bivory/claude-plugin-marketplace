@@ -9,12 +9,12 @@
   "plugins": [
     {
       "name": "roz",
-      "source": "./",
+      "source": "github:bivory/roz",
       "description": "Quality gate for Claude Code - enforces independent review before task completion"
     },
     {
       "name": "grove",
-      "source": "./",
+      "source": "github:bivory/grove",
       "description": "Compound learning gate for Claude Code - enforces structured reflection at ticket boundaries"
     }
   ]
